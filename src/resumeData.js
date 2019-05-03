@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"http://localhost:3000/",
+    "imagebaseurl":"http://reactjs.genamalugin.ru/",
     "name": "Малюгин Геннадий",
     "role": "Frontend Developer",
     "about": ""
